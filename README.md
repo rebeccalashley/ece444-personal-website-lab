@@ -2,7 +2,8 @@
 
 > Welcome to my GitHub! 
 
-> Feel free to access my personal website at :
+> Feel free to access my personal website at https://rebeccalashley.github.io
+
 > (This website is a clone of https://github.com/varadbhogayata/varadbhogayata.github.io)
 
 
